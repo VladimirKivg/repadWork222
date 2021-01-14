@@ -1,2 +1,8 @@
-package weapon;public class Real {
+package weapon;
+
+public  class Real implements WorkWeapon{
+    @Override
+    public void workWeapon() {
+
+    }
 }
