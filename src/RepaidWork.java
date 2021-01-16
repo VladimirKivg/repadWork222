@@ -22,7 +22,9 @@ public class RepaidWork {
         Makarov makarov=new Makarov();
 
         test1.foo(ak47,ak47);
+        System.out.println();
         test1.foo(makarov,makarov);
+        System.out.println();
         test1.foo(ak47);
 
     }
