@@ -5,6 +5,7 @@ public class Ak47 extends Rifle implements WorkWeapon{
     public void weapon() {
         ak47();
         super.weapon();
+        workWeapon();
     }
 
     private void ak47(){
