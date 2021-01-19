@@ -1,6 +1,8 @@
-package weapon;
+package weapon.typeWeapon;
 
-public  class Rifle extends Weapon{
+import weapon.Weapon;
+
+public  class Rifle extends Weapon {
 
     @Override
     public void weapon() {
