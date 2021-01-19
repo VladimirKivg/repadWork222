@@ -1,11 +1,12 @@
 package repadWork_interf;
 
-import weapon.Ak47;
+import weapon.Ak47.Ak47;
 
 public class Mi82 extends Helicopter2{
 
 public void flyWeapon(){
     Ak47 ak47=new Ak47();
+    fly();
     verticalTakeoff();
     System.out.println("оснащення:");
     ak47.weapon();
@@ -17,6 +18,6 @@ public void flyWeapon(){
 
     @Override
     public void verticalTakeoff() {
-        System.out.println("Вертолет Mi8 вертикальный взлет");
+        System.out.println(" вертикальный взлет");
     }
 }

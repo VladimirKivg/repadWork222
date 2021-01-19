@@ -1,6 +1,9 @@
-package weapon;
+package weapon.makarov;
 
-public class Makarov extends Rifle implements WorkWeapon{
+import weapon.Rifle;
+import weapon.WorkWeapon;
+
+public class Makarov extends Rifle implements WorkWeapon {
     @Override
     public void weapon() {
         makarov();

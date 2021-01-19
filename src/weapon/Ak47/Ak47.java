@@ -1,6 +1,9 @@
-package weapon;
+package weapon.Ak47;
 
-public class Ak47 extends Rifle implements WorkWeapon{
+import weapon.Rifle;
+import weapon.WorkWeapon;
+
+public class Ak47 extends Rifle implements WorkWeapon {
     @Override
     public void weapon() {
         ak47();
