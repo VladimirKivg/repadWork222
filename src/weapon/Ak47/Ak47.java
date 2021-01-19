@@ -1,6 +1,6 @@
 package weapon.Ak47;
 
-import weapon.Rifle;
+import weapon.typeWeapon.Rifle;
 import weapon.WorkWeapon;
 
 public class Ak47 extends Rifle implements WorkWeapon {
