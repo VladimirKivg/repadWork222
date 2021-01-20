@@ -1,6 +1,6 @@
 package weapon.makarov;
 
-import weapon.Rifle;
+import weapon.typeWeapon.Rifle;
 import weapon.WorkWeapon;
 
 public class Makarov extends Rifle implements WorkWeapon {
