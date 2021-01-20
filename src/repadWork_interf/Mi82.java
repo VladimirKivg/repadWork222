@@ -1,6 +1,6 @@
 package repadWork_interf;
 
-import weapon.takeWeapon.Ak47;
+import weapon.weaponRifle.Ak47;
 
 public class Mi82 extends Helicopter2{
 
