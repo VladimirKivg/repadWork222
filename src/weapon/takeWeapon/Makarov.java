@@ -1,4 +1,4 @@
-package weapon.makarov;
+package weapon.takeWeapon;
 
 import weapon.typeWeapon.Rifle;
 import weapon.WorkWeapon;

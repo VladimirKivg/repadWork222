@@ -1,4 +1,4 @@
-package weapon.Ak47;
+package weapon.takeWeapon;
 
 import weapon.typeWeapon.Rifle;
 import weapon.WorkWeapon;
