@@ -7,7 +7,7 @@ import weapon.WorkWeapon;
 public class Ak47 extends Rifle implements WorkWeapon {
     @Override
     public void weapon() {
-     //   ak47();
+       // ak47();
         super.weapon();
         workWeapon();
     }
