@@ -1,4 +1,4 @@
-package weapon.takeWeapon;
+package weapon.weaponRifle;
 
 import weapon.typeWeapon.Rifle;
 import weapon.WorkWeapon;
