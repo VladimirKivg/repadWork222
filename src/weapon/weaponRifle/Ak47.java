@@ -1,19 +1,23 @@
 package weapon.weaponRifle;
 
+import weapon.Weapon;
 import weapon.typeWeapon.Rifle;
 import weapon.WorkWeapon;
 
 public class Ak47 extends Rifle implements WorkWeapon {
     @Override
     public void weapon() {
-        ak47();
+     //   ak47();
         super.weapon();
         workWeapon();
     }
 
-    private void ak47(){
-
+    public void ak47(Weapon e){
         System.out.println("Ak47");
+        e.foo(e);
+
+      //  e.weapon();
+       // e.foo(e);
     }
 
     @Override
