@@ -3,7 +3,7 @@ package weapon;
 // капец тут матрешка вийшла
 public abstract class Weapon {
 public abstract void weapon();
-public void foo(Weapon sss){
+public void fooWeapon(Weapon sss){
     System.out.println("ця зброя");
     sss.weapon();
 }
