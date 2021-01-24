@@ -4,15 +4,15 @@ public class Test {
 
 
 
-    public void foo(Weapon tip, WorkWeapon ti) {
+    public void fooTest(Weapon tip, WorkWeapon ti) {
         tip.weapon();
-        tip.foo(tip);
+        tip.fooWeapon(tip);
         ti.workWeapon();
     }
 
-    public   void foo(Weapon tip){
+    public   void fooTest(Weapon tip){
 
-        tip.foo(tip);
+        tip.fooWeapon(tip);
         tip.weapon();
 
 
