@@ -6,11 +6,11 @@ import weapon.WorkWeapon;
 public class Makarov extends Rifle implements WorkWeapon {
     @Override
     public void weapon() {
-        makarov();
+        fooMakarov();
         super.weapon();
 
     }
-    private void makarov(){
+    private void fooMakarov(){
 
         System.out.println("пістолет Макаров");
     }
