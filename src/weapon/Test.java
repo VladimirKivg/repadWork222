@@ -13,7 +13,7 @@ public class Test {
     public   void fooTest(Weapon tip){
 
         tip.fooWeapon(tip);
-        tip.weapon();
+
 
 
     }
