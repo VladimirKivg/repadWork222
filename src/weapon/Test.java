@@ -1,8 +1,15 @@
 package weapon;
+public class Test <T,G>{
+private   T t;
+private G g;
 
-public class Test {
+    public T getT() {
+        return t;
+    }
 
-
+    public G getG() {
+        return g;
+    }
 
     public void fooTest(Weapon tip, WorkWeapon ti) {
        // tip.weapon();
@@ -15,9 +22,18 @@ public class Test {
 
     }
 
+    public Test(T t, G g) {
+        this.t = t;
+        this.g = g;
+    }
 
+    public Test(T t) {
+        this.t = t;
 
     }
+}
+
+
 
 
 
