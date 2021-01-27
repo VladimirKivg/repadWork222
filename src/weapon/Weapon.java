@@ -7,5 +7,10 @@ public void fooWeapon(Weapon sss){
     System.out.println("ця зброя");
     sss.weapon();
 }
+    public void fooWeapon(){
+        System.out.println("ця зброя");
+
+    }
+
     }
 
