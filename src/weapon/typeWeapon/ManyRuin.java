@@ -1,2 +1,4 @@
-package weapon.typeWeapon;public class ManyRuin {
+package weapon.typeWeapon;
+
+public class ManyRuin {
 }
