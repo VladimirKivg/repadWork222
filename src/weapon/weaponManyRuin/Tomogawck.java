@@ -1,2 +1,4 @@
-package weapon.weaponManyRuin;public class Tomogawck {
+package weapon.weaponManyRuin;
+
+public class Tomogawck {
 }
