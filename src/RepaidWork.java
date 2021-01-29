@@ -1,4 +1,5 @@
 import weapon.Test;
+import weapon.weaponManyRuin.RPG8;
 import weapon.weaponRifle.Ak47;
 import weapon.weaponRifle.Makarov;
 
@@ -19,6 +20,10 @@ public class RepaidWork {
         makarov.fooMakarov(makarov);
 test.getT().fooAk47(ak47);// тут класс test єксперементальнмй щось подібне краще проробіти з літальнімі апаратамі
   test.getG().fooMakarov(makarov);
+
+        RPG8 rpg8=new RPG8();
+        rpg8.fooRPG8(rpg8);
+
     }
 
     private static class Mi8 {
