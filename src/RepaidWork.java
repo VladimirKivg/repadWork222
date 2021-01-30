@@ -1,5 +1,6 @@
 import weapon.Test;
 import weapon.weaponManyRuin.RPG8;
+import weapon.weaponManyRuin.Tomogawck;
 import weapon.weaponRifle.Ak47;
 import weapon.weaponRifle.Makarov;
 
@@ -19,11 +20,15 @@ public class RepaidWork {
         System.out.println();
         makarov.fooMakarov(makarov);
 test.getT().fooAk47(ak47);// тут класс test єксперементальнмй щось подібне краще проробіти з літальнімі апаратамі
+        System.out.println("що тут");
   test.getG().fooMakarov(makarov);
 
         RPG8 rpg8=new RPG8();
         rpg8.fooRPG8(rpg8);
-
+        Tomogawck tomogawck=new Tomogawck();
+        tomogawck.fooTomogawck(tomogawck);
+//        rpg8.weapon();
+//rpg8.fooWeapon(rpg8);
     }
 
     private static class Mi8 {
