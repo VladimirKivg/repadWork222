@@ -1,5 +1,8 @@
 package weapon;
-public class Test <T,G>{
+
+import weapon.typeWeapon.ManyRuin;
+
+public class Test <T,G>  {
 private   T t;
 private G g;
 
