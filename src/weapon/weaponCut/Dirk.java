@@ -1,2 +1,4 @@
-package weapon.weaponCut;public class Dirk {
+package weapon.weaponCut;
+
+public class Dirk {
 }
