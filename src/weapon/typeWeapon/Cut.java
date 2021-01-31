@@ -1,2 +1,4 @@
-package weapon.typeWeapon;public class Cut {
+package weapon.typeWeapon;
+
+public class Cut {
 }
