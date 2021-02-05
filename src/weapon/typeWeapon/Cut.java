@@ -1,4 +1,10 @@
 package weapon.typeWeapon;
 
-public class Cut {
+import weapon.Weapon;
+
+public class Cut extends Weapon {
+    @Override
+    public void weapon() {
+        System.out.println();
+    }
 }
