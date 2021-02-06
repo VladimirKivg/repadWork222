@@ -1,5 +1,7 @@
 package weapon.weaponCut;
 
-public class knauf {
+import weapon.typeWeapon.Cut;
+
+public class Knauf extends Cut {
 
 }
