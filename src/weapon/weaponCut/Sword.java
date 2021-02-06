@@ -1,5 +1,7 @@
 package weapon.weaponCut;
 
-public class Sword {
+import weapon.typeWeapon.Cut;
+
+public class Sword extends Cut {
 
 }
