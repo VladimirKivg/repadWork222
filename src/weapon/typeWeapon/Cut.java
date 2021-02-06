@@ -5,6 +5,6 @@ import weapon.Weapon;
 public class Cut extends Weapon {
     @Override
     public void weapon() {
-        System.out.println();
+        System.out.println("колюче чи ріжуче");
     }
 }
