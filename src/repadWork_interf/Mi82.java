@@ -10,10 +10,12 @@ public void flyWeapon(){
     verticalTakeoff();
     System.out.println("оснащення:");
     ak47.weapon();
+    Mi82.super.setName("безобидный");
 }
     @Override
     public void fly() {
         System.out.println("Вертолет Mi8");
+
     }
 
     @Override
