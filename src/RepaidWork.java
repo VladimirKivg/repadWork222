@@ -1,4 +1,5 @@
 import weapon.Test;
+import weapon.weaponCut.Sword;
 import weapon.weaponManyRuin.RPG8;
 import weapon.weaponManyRuin.Tomogawck;
 import weapon.weaponRifle.Ak47;
@@ -29,6 +30,9 @@ test.getT().fooAk47(ak47);// тут класс test єксперементаль
         tomogawck.fooTomogawck(tomogawck);
 //        rpg8.weapon();
 //rpg8.fooWeapon(rpg8);
+
+        Sword sword=new Sword();
+        sword.fooWeapon(sword);
     }
 
     private static class Mi8 {
