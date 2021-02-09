@@ -1,6 +1,8 @@
 package repadWork_interf;
 
-public class Boeing749 extends Aircraft2{
+import repadWork_interf.tupFly.Aircraft2;
+
+public class Boeing749 extends Aircraft2 {
 
     @Override
     public void fly() {
