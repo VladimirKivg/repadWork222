@@ -17,4 +17,5 @@ public class Sword extends Cut implements WorkWeapon{
     public void workWeapon() {
         System.out.println("исползуют ниньзя и сомураи");
     }
+
 }
