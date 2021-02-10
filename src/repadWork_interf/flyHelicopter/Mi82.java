@@ -1,4 +1,4 @@
-package repadWork_interf;
+package repadWork_interf.flyHelicopter;
 
 import repadWork_interf.tupFly.Helicopter2;
 import weapon.weaponRifle.Ak47;
