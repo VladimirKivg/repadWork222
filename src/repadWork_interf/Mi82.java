@@ -1,8 +1,9 @@
 package repadWork_interf;
 
+import repadWork_interf.tupFly.Helicopter2;
 import weapon.weaponRifle.Ak47;
 
-public class Mi82 extends Helicopter2{
+public class Mi82 extends Helicopter2 {
 
 public void flyWeapon(){
     Ak47 ak47=new Ak47();
