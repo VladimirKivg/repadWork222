@@ -11,6 +11,7 @@ public class Test3 {
         FlingObject2 flingObject2=new Mi82();
         flingObject2.setName("самолет");
         flingObject2.fly();
+        System.out.println(flingObject2.getName());
        // mi82.setName("літаюча хуйня");
 
         mi82.flyWeapon();
