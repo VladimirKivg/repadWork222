@@ -15,7 +15,7 @@ public class Test3 {
         mi82.setName("літаюча хуйня");
         System.out.println(flingObject2.getName());
         mi82.flyWeapon();
-        System.out.println();
+        System.out.println(mi82.getName());
     }
 
 
