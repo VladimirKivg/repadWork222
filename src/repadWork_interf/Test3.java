@@ -13,10 +13,10 @@ public class Test3 {
         flingObject2.fly();
 
         mi82.setName("літаюча хуйня");
-
-        mi82.flyWeapon();
         System.out.println(flingObject2.getName());
         System.out.println(mi82.getName());
+        mi82.flyWeapon();
+
 
     }
 
