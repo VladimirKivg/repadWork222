@@ -15,7 +15,7 @@ public class Test3 {
         mi82.setName("літаюча хуйня");
 
         mi82.flyWeapon();
-        System.out.println(flingObject2.getName());// це видалити після відправки, і знову відправити
+        System.out.println(flingObject2.getName());
         System.out.println(mi82.getName());
 
     }
