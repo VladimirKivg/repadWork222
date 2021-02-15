@@ -10,7 +10,7 @@ public class Test3 {
         Mi82 mi82=new Mi82();
         FlingObject2 flingObject2=new Mi82();
         flingObject2.setName("самолет");
-
+flingObject2.setSurname("не не самалет, а верталет");
         flingObject2.fly();
 
         mi82.setName("літаюча хуйня");
