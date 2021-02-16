@@ -12,7 +12,7 @@ public class Test3 {
         flingObject2.setSurname("не не самалет, а верталет");
       //  flingObject2.fly();
 
-        mi82.setName("літаюча хуйня");//удалить это аж до создания FlingObject2
+        //удалить это аж до создания FlingObject2
         mi82.flyWeapon();
 
 
