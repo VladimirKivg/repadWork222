@@ -10,7 +10,7 @@ public class Test3 {
 
 
 
-        //удалить это аж до создания FlingObject2
+
         mi82.flyWeapon();
 
 
