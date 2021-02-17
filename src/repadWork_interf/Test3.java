@@ -9,7 +9,7 @@ public class Test3 {
         Mi82 mi82 = new Mi82();
         FlingObject2 flingObject2 = new Mi82();
 
-        flingObject2.setSurname("не не самалет, а верталет");
+        flingObject2.setSurname("не не самалет,");
         //удалить это аж до создания FlingObject2
         mi82.flyWeapon();
 
