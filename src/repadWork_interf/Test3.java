@@ -7,7 +7,7 @@ public class Test3 {
 
     public static void main(String[] args) {
         Mi82 mi82 = new Mi82();
-        FlingObject2 flingObject2 = new Mi82();
+
 
 
         //удалить это аж до создания FlingObject2
