@@ -1,2 +1,4 @@
-package repadWork_interf.flyHelicopter;public class Albatros {
+package repadWork_interf.flyHelicopter;
+
+public class Albatros {
 }
