@@ -1,4 +1,6 @@
 package repadWork_interf.flyHelicopter;
 
-public class Albatros {
+import repadWork_interf.tupFly.Helicopter2;
+
+public class Albatros extends Helicopter2 {
 }
