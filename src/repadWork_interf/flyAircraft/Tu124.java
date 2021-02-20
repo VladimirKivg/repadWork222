@@ -1,4 +1,6 @@
 package repadWork_interf.flyAircraft;
 
-public class Tu124 {
+import repadWork_interf.tupFly.Aircraft2;
+
+public class Tu124 extends Aircraft2 {
 }
