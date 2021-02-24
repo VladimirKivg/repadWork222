@@ -5,7 +5,7 @@ import repadWork_interf.tupFly.Helicopter2;
 public class Albatros extends Helicopter2 {
     @Override
     public void fly() {
-
+        System.out.println("Albatros роботящая лошадка ");
     }
 
     @Override
