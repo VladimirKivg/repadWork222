@@ -3,6 +3,9 @@ package repadWork_interf.flyHelicopter;
 import repadWork_interf.tupFly.Helicopter2;
 
 public class Albatros extends Helicopter2 {
+    public void flay(){
+
+    }
     @Override
     public void fly() {
         System.out.println("Albatros роботящая лошадка ");
