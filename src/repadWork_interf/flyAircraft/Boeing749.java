@@ -10,7 +10,7 @@ public class Boeing749 extends Aircraft2 {
     }
 
     @Override
-    public void gorizontTakeoff() {
-
+    public void gorizontTakeoff(){
+        System.out.println("горизонтальный взлет");
     }
 }
