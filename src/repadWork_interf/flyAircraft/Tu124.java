@@ -7,4 +7,9 @@ public class Tu124 extends Aircraft2 {
     public void fly() {
         System.out.println("маленький блин но очень проворный Tu124");
     }
+
+    @Override
+    public void gorizontTakeoff() {
+
+    }
 }
