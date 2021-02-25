@@ -8,4 +8,9 @@ public class Boeing749 extends Aircraft2 {
     public void fly() {
         System.out.println("я лечу 749");
     }
+
+    @Override
+    public void gorizontTakeoff() {
+
+    }
 }
