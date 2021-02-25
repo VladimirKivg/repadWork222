@@ -7,7 +7,6 @@ public class Mi82 extends Helicopter2 {
 
 public void flyWeapon(){
     Ak47 ak47=new Ak47();
-
     fly();
     verticalTakeoff();
     System.out.println("оснащення:");
