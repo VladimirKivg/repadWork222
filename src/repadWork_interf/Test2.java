@@ -1,7 +1,7 @@
 package repadWork_interf;
 
 public class Test2 {
-    public void boeung(){}
+    public void boeing(){}
 
 
     public void foo(FlingObject2 flingObject) {
