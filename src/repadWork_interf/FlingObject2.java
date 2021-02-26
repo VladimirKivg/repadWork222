@@ -3,6 +3,7 @@ package repadWork_interf;
 public abstract class FlingObject2 {
     private String name;
     private String surname;
+
     public abstract void fly();
 
     public String getName() {
