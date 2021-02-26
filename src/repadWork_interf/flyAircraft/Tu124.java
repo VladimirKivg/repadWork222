@@ -13,6 +13,6 @@ public class Tu124 extends Aircraft2 {
 
     @Override
     public void gorizontTakeoff() {
-
+        System.out.println("горизонтальный взлет");
     }
 }
