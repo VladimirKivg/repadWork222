@@ -2,9 +2,9 @@ package weapon;
 
 import weapon.typeWeapon.ManyRuin;
 
-public class Test <T,G>  {
-private   T t;
-private G g;
+public class Test<T, G> {
+    private T t;
+    private G g;
 
     public T getT() {
         return t;
@@ -15,12 +15,12 @@ private G g;
     }
 
     public void fooTest(Weapon tip, WorkWeapon ti) {
-       // tip.weapon();
+        // tip.weapon();
         tip.fooWeapon(tip);
         ti.workWeapon();
     }
 
-    public   void fooTest(Weapon tip){
+    public void fooTest(Weapon tip) {
         tip.fooWeapon();
 
     }
