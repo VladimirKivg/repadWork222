@@ -3,7 +3,7 @@ package weapon.weaponCut;
 import weapon.WorkWeapon;
 import weapon.typeWeapon.Cut;
 
-public class Sword extends Cut implements WorkWeapon{
+public class Sword extends Cut implements WorkWeapon {
     @Override
     public void weapon() {
         super.weapon();
