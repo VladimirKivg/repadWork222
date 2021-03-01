@@ -1,2 +1,4 @@
-package repadWork_interf.flyAircraft;public class Mriya {
+package repadWork_interf.flyAircraft;
+
+public class Mriya {
 }
