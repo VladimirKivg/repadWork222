@@ -4,6 +4,7 @@ import repadWork_interf.tupFly.Aircraft2;
 
 public class Boeing749 extends Aircraft2 {//так само тут створити як обєкт
     public void flyWor() {
+        fly();
     }
 
     @Override
