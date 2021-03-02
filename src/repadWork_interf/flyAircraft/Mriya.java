@@ -7,4 +7,9 @@ public class Mriya extends Aircraft2 {
     public void fly() {
 
     }
+
+    @Override
+    public void gorizontTakeoff() {
+
+    }
 }
