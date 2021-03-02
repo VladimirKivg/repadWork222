@@ -1,4 +1,6 @@
 package repadWork_interf.flyAircraft;
 
-public class Mriya {
+import repadWork_interf.tupFly.Aircraft2;
+
+public class Mriya extends Aircraft2 {
 }
