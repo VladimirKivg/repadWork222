@@ -18,7 +18,7 @@ public class Mi82 extends Helicopter2 {
 
     @Override
     public void fly() {
-        System.out.println("Вертолет Mi8");
+           System.out.println("Вертолет Mi8");
 
     }
 
