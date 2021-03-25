@@ -9,6 +9,7 @@ public class Test3 {
         mi82.flyWeapon();
         Test2 test2=new Test2();
         test2.boeing();
+
     }
 
 
