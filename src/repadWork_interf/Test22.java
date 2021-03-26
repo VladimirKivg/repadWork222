@@ -1,6 +1,6 @@
 package repadWork_interf;
 
-public class Test22<T> {
+public class    Test22<T> {
     private Test2 test2;
     private T gen;
 
