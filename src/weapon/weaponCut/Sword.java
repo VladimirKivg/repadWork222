@@ -7,7 +7,7 @@ public class Sword extends Cut implements WorkWeapon {
     @Override
     public void weapon() {
         super.weapon();
-        System.out.println("очень острый и удобный меч," +
+                System.out.println("очень острый и удобный меч," +
                 "с смещенным центром тяжости, " +
                 "и хорошо отбалансирован");
         workWeapon();
