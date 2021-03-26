@@ -7,7 +7,7 @@ import weapon.typeWeapon.ManyRuin;
 public class RPG8 extends ManyRuin implements WorkWeapon {
     public void fooRPG8(Weapon e) {
         e.fooWeapon(e);
-        System.out.println("RPG8");
+            System.out.println("RPG8");
         workWeapon();
     }
 
