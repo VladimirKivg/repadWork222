@@ -13,7 +13,7 @@ public class Ak47 extends Rifle implements WorkWeapon {
     }
 
     public void fooAk47(Weapon e) {
-        System.out.println("Ak47");
+            System.out.println("Ak47");
         e.fooWeapon(e);
 
         //  e.weapon();
