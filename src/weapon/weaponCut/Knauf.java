@@ -3,7 +3,7 @@ package weapon.weaponCut;
 import weapon.WorkWeapon;
 import weapon.typeWeapon.Cut;
 
-public class Knauf extends Cut implements WorkWeapon {
+public class    Knauf extends Cut implements WorkWeapon {
     @Override
     public void workWeapon() {
         System.out.println("исползует спецназ разных стран" +
