@@ -7,7 +7,7 @@ public abstract class FlingObject2 {
 
       public abstract void fly();
 
-    public String getName() {
+     public String getName() {
         return name;
     }
 
