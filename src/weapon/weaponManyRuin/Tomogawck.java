@@ -4,7 +4,7 @@ import weapon.Weapon;
 import weapon.WorkWeapon;
 import weapon.typeWeapon.ManyRuin;
 
-public class Tomogawck extends ManyRuin implements WorkWeapon {
+public    class Tomogawck extends ManyRuin implements WorkWeapon {
 
     public void fooTomogawck(Weapon e) {
         e.fooWeapon(e);
