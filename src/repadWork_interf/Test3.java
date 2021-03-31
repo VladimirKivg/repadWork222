@@ -1,5 +1,6 @@
 package repadWork_interf;
 
+import repadWork_interf.flyAircraft.Mriya;
 import repadWork_interf.flyHelicopter.Mi82;
 
 public class Test3 {
@@ -9,6 +10,9 @@ public class Test3 {
         mi82.flyWeapon();
            Test2 test2=new Test2();
         test2.boeing();
+        System.out.println("_______________________");
+        Mriya mriya=new Mriya();
+        mriya.gorizontTakeoff();
 
     }
 
