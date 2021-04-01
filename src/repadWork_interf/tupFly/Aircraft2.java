@@ -11,6 +11,7 @@ public abstract class Aircraft2 extends FlingObject2 implements GorizontTakeoff 
 
     @Override
     public void gorizontTakeoff() {
+        System.out.println("");
 
     }
 
