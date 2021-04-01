@@ -18,6 +18,7 @@ public class Test3 {
         System.out.println("________________________");
         Tu124 tu124=new Tu124();
 tu124.max();
+tu124.gorizontTakeoff();
     }
 
 
