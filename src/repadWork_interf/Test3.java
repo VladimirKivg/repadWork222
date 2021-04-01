@@ -17,7 +17,7 @@ public class Test3 {
         mi82.verticalTakeoff2();
         System.out.println("________________________");
         Tu124 tu124=new Tu124();
-
+tu124.max();
     }
 
 
