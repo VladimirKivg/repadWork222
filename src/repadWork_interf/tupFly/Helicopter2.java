@@ -9,7 +9,7 @@ public abstract class   Helicopter2 extends FlingObject2 implements VerticalTake
      * вертолет но и допустим ракета */
 
     public void verticalTakeoff2(){
-        System.out.println("садимся на любой площадке");
+        System.out.println("Взлетаем на любой площадке ");
 
     };
 }
