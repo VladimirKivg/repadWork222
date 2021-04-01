@@ -10,6 +10,12 @@ public class Tu124 extends Aircraft2 {
     }
 
     @Override
+    public void max() {
+        super.max();
+        System.out.println("м не только");
+    }
+
+    @Override
     public void fly() {
         System.out.println("маленький блин но очень проворный Tu124");
     }
