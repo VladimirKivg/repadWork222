@@ -10,6 +10,7 @@ public class Test2 {
     }
 
 
+
     public void foo(VerticalTakeoff2 verticalTakeoff2) {
         verticalTakeoff2.verticalTakeoff();
     }
