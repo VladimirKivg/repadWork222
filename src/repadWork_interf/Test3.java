@@ -14,7 +14,7 @@ public class Test3 {
         Mriya mriya = new Mriya();
         mriya.gorizontTakeoff();
         mi82.verticalTakeoff2();
-//        System.out.println("________________________");// tu124
+        System.out.println("________________________");
     }
 
 
