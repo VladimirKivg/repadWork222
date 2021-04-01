@@ -1,6 +1,7 @@
 package repadWork_interf;
 
 import repadWork_interf.flyAircraft.Mriya;
+import repadWork_interf.flyAircraft.Tu124;
 import repadWork_interf.flyHelicopter.Mi82;
 
 public class Test3 {
@@ -15,6 +16,8 @@ public class Test3 {
         mriya.gorizontTakeoff();
         mi82.verticalTakeoff2();
         System.out.println("________________________");
+        Tu124 tu124=new Tu124();
+
     }
 
 
