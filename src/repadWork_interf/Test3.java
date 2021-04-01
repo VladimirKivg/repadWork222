@@ -13,7 +13,7 @@ public class Test3 {
         System.out.println("_______________________");
         Mriya mriya=new Mriya();
         mriya.gorizontTakeoff();
-
+mi82.verticalTakeoff2();
     }
 
 
