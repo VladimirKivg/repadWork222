@@ -8,6 +8,7 @@ public class Albatros extends Helicopter2 {
         verticalTakeoff();
     }
 
+
     @Override
     public void fly() {
         System.out.println("Albatros роботящая лошадка ");
