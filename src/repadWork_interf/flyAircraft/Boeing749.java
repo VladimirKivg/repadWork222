@@ -14,8 +14,4 @@ public class      Boeing749 extends Aircraft2 {//так само тут ство
         System.out.println("я лечу 749");
     }
 
-    @Override
-    public void gorizontTakeoff() {
-        System.out.println("горизонтальный взлет");
-    }
 }
