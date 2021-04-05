@@ -1,5 +1,6 @@
 package repadWork_interf;
 
+import repadWork_interf.flyAircraft.Boeing749;
 import repadWork_interf.flyAircraft.Mriya;
 import repadWork_interf.flyAircraft.Tu124;
 import repadWork_interf.flyHelicopter.Mi82;
@@ -19,6 +20,10 @@ public class Test3 {
         Tu124 tu124=new Tu124();
 tu124.max();
 tu124.gorizontTakeoff();
+        System.out.println("_________________________");
+        Boeing749 boeing749=new Boeing749();
+        boeing749.fly();
+//        boeing749.flyWor();
     }
 
 
