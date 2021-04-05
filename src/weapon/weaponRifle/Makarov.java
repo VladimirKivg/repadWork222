@@ -24,7 +24,7 @@ public class Makarov extends Rifle implements WorkWeapon {
     }
 
     @Override
-        public void workWeapon() {
+    public void workWeapon() {
 
         System.out.println("це пістоле, не автомат звичайно," +
                 " але краще ніж нічого");
