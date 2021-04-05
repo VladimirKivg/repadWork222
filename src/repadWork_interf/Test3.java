@@ -23,7 +23,7 @@ tu124.gorizontTakeoff();
         System.out.println("_________________________");
         Boeing749 boeing749=new Boeing749();
         boeing749.fly();
-//        boeing749.flyWor();
+        boeing749.flyWor();
     }
 
 
