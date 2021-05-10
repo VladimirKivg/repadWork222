@@ -17,11 +17,11 @@ public class Test3 {
         mriya.gorizontTakeoff();
         mi82.verticalTakeoff2();
         System.out.println("________________________");
-        Tu124 tu124=new Tu124();
-tu124.max();
-tu124.gorizontTakeoff();
+        Tu124 tu124 = new Tu124();
+        tu124.max();
+        tu124.gorizontTakeoff();
         System.out.println("_________________________");
-        Boeing749 boeing749=new Boeing749();
+        Boeing749 boeing749 = new Boeing749();
         boeing749.fly();
         boeing749.flyWor();
     }
