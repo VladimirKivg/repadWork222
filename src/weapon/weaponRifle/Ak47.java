@@ -16,8 +16,6 @@ public class Ak47 extends Rifle implements WorkWeapon {
         System.out.println("Ak47");
         e.fooWeapon(e);
 
-        //  e.weapon();
-        // e.foo(e);
     }
 
     @Override
