@@ -26,8 +26,7 @@ public class RepaidWork {
         rpg8.fooRPG8(rpg8);
         Tomogawck tomogawck = new Tomogawck();
         tomogawck.fooTomogawck(tomogawck);
-//        rpg8.weapon();
-//rpg8.fooWeapon(rpg8);
+
 
         Sword sword = new Sword();
         sword.fooWeapon(sword);
