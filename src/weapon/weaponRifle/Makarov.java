@@ -15,7 +15,7 @@ public class Makarov extends Rifle implements WorkWeapon {
     public void fooMakarov(Weapon e) {
         //  System.out.println("пістолет Макаров");
         e.fooWeapon(e);
-        //   workWeapon();
+
     }
 
     private void fooMakarov() {
