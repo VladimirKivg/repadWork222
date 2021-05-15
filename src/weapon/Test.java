@@ -15,7 +15,6 @@ public class Test<T, G> {
     }
 
     public void fooTest(Weapon tip, WorkWeapon ti) {
-        // tip.weapon();
         tip.fooWeapon(tip);
         ti.workWeapon();
     }
