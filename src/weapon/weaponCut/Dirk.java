@@ -3,7 +3,6 @@ package weapon.weaponCut;
 import weapon.WorkWeapon;
 import weapon.typeWeapon.Cut;
 
-import javax.sql.rowset.WebRowSet;
 
 //добавить  и сюда и в остальные колющие интерфейс
 public class Dirk extends Cut implements WorkWeapon {
